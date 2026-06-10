@@ -1,0 +1,5 @@
+node_modules/
+trader_state.json
+trader_state.selftest.json
+trading_log.txt
+trading_log.selftest.txt
