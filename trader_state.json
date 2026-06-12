@@ -1,0 +1,31 @@
+{
+  "weeklyTradeCount": 0,
+  "weekStartDate": "2026-06-08",
+  "monthlyDepositMade": false,
+  "depositMonth": "2026-06",
+  "lastDepositAmount": null,
+  "quarterlyBigPlays": 0,
+  "quarterKey": "2026-Q2",
+  "takeProfitState": {},
+  "positionOpenDates": {
+    "NVDA": "2026-06-12",
+    "PLTR": "2026-06-12",
+    "FLNC": "2026-06-12",
+    "RKLB": "2026-06-12",
+    "QQQM": "2026-06-12",
+    "SCHD": "2026-06-12",
+    "GLW": "2026-06-12",
+    "INTC": "2026-06-12",
+    "ORCL": "2026-06-12",
+    "VOO": "2026-06-12"
+  },
+  "portfolioValueHistory": [
+    {
+      "date": "2026-06-12",
+      "value": 1439.1714386144
+    }
+  ],
+  "dryRunDates": [
+    "2026-06-12"
+  ]
+}

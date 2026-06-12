@@ -1,0 +1,4 @@
+[2026-06-12T01:06:38.673Z] [DRY RUN] NVDA | action=hold | price=$204.66 | source=risk_management | reason="AI Chips - within range (-2.6%)"
+[2026-06-12T01:06:38.673Z] [DRY RUN] PLTR | action=hold | price=$131.00 | source=risk_management | reason="Gov AI - within range (-7.9%)"
+[2026-06-12T01:06:38.673Z] [DRY RUN] RKLB | action=hold | price=$114.77 | source=risk_management | reason="Space - within range (-0.5%)"
+[2026-06-12T01:06:38.673Z] [DRY RUN] FLNC | action=hold | price=$24.26 | source=risk_management | reason="Energy Storage - within range (-1.3%)"
