@@ -1,6 +1,6 @@
 {
   "weeklyTradeCount": 0,
-  "weekStartDate": "2026-06-08",
+  "weekStartDate": "2026-06-22",
   "monthlyDepositMade": false,
   "depositMonth": "2026-06",
   "lastDepositAmount": null,
@@ -23,9 +23,14 @@
     {
       "date": "2026-06-12",
       "value": 1439.1714386144
+    },
+    {
+      "date": "2026-06-23",
+      "value": 1371.2149092503
     }
   ],
   "dryRunDates": [
-    "2026-06-12"
+    "2026-06-12",
+    "2026-06-23"
   ]
 }
