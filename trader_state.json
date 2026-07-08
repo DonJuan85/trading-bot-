@@ -1,11 +1,11 @@
 {
   "weeklyTradeCount": 0,
-  "weekStartDate": "2026-06-08",
+  "weekStartDate": "2026-07-06",
   "monthlyDepositMade": false,
-  "depositMonth": "2026-06",
+  "depositMonth": "2026-07",
   "lastDepositAmount": null,
   "quarterlyBigPlays": 0,
-  "quarterKey": "2026-Q2",
+  "quarterKey": "2026-Q3",
   "takeProfitState": {},
   "positionOpenDates": {
     "NVDA": "2026-06-12",
@@ -23,9 +23,14 @@
     {
       "date": "2026-06-12",
       "value": 1439.1714386144
+    },
+    {
+      "date": "2026-07-08",
+      "value": 1493.369965
     }
   ],
   "dryRunDates": [
-    "2026-06-12"
+    "2026-06-12",
+    "2026-07-08"
   ]
 }
