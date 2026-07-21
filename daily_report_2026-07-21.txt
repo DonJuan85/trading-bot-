@@ -1,0 +1,189 @@
+=== TRADER BOT DAILY REPORT ===
+Date: 2026-07-21 | Portfolio Value: $1,294.65 (equity) / $1,478.07 (total incl. crypto)
+Daily Change: -$144.52 (-10.04%) vs prior session
+
+MARKET MOOD: Fear & Greed 37.6 - FEAR
+  → Market is risk-off. Not Extreme Fear, so no aggressive buy signal yet.
+  → Dow dipped 300+ pts Monday on rising oil prices / Iran geopolitical risk.
+  → CPI 3.5% (below 3.8% expected) = macro tailwind; oil spike = headwind.
+
+================================================================================
+PORTFOLIO POSITIONS:
+================================================================================
+
+[CORE ETFs — NEVER SELL]
+QQQM  | $290.20 | Avg: $295.66 | P&L: -1.8%  | HOLD        | Confidence: HIGH
+  → QQQM hits $100B AUM milestone; 50-day MA crossed bullishly July 8.
+  → SHORT-TERM TECHNICAL WEAKNESS (3 down days), but core AI/tech intact.
+  ⚠ ALERT: QQQM only 25.8% of portfolio — TARGET IS 50%. Needs rebalancing.
+
+SCHD  | $32.76  | Avg: $32.39  | P&L: +1.1%  | HOLD STRONG | Confidence: HIGH
+  → Hit 52-week high; outperformed SPY by ~1% past month.
+  → Post-rebalance defensive tilt (UNH, MRK, ABT, AMGN). Solid yield play.
+
+VOO   | $684.63 | Avg: $668.87 | P&L: +2.4%  | HOLD STRONG | Confidence: HIGH
+  → First ETF to cross $1 trillion AUM (June 2026). Up 10.8% YTD.
+  → S&P 500 broad exposure; AI/earnings rebound driving gains.
+
+[BLUE CHIP POSITIONS]
+NVDA  | $205.71 | Avg: $210.20 | P&L: -2.1%  | HOLD STRONG | Confidence: HIGH
+  → 61 analysts rate Strong Buy; avg PT $301.62 (+48% upside).
+  → Nvidia acquires 9.3% passive stake in Nebius — validates AI cloud buildout.
+  → AI demand and China shipment recovery lifting outlook.
+
+PLTR  | $133.67 | Avg: $142.19 | P&L: -6.0%  | HOLD STRONG | Confidence: HIGH
+  → Q2 earnings Aug 3 — EPS up 235.9% YoY, Net Income up 251.59% YoY.
+  → New forecast targets 11% quarterly growth; ARK Invest added 30,500 shares.
+  → Stocktwits mentions surged 1,400% in 30 days. Pre-earnings momentum building.
+  ⚠ Watch: Valuation stretched (~42x revenue). Expect volatility around Aug 3.
+
+INTC  | $102.08 | Avg: $110.04 | P&L: -7.2%  | WATCH       | Confidence: MEDIUM
+  → Up 278% in first half of 2026! Now in a 25%+ pullback from ATH.
+  → Q2 earnings July 23 (2 DAYS AWAY). Guidance: $13.8–14.8B rev, ~$0.20 EPS.
+  → 18A technology execution risk; thin gross margins (~39%) are concern.
+  ⚠ Earnings miss July 23 could accelerate selloff. Position is small ($37).
+
+ORCL  | $122.77 | Avg: $206.86 | P&L: -40.7% | CONSIDER SELLING | Confidence: MEDIUM
+  🚨 STOP LOSS TRIGGERED (-40.7% breaches -15% blue_chip threshold)
+  → Near 52-week low ($120.03 low vs $345.72 52-wk high = 65% drawdown).
+  → $16.5B New Mexico AI data center stalled by environmental permitting; cost overruns.
+  → Securities litigation risk over alleged misleading AI ROI statements.
+  → Japan air-gapped gov cloud contract race ongoing — no award yet.
+  ⚠ Position value only $23.74. Stop loss triggered. Review urgently.
+
+[HIGH GROWTH POSITIONS]
+RKLB  | $67.03  | Avg: $115.39 | P&L: -41.9% | WATCH       | Confidence: MEDIUM
+  🚨 STOP LOSS TRIGGERED (-41.9% breaches -25% high_growth threshold)
+  → CEO Peter Beck: 29 insider sales = $287.7M in shares over 6 months. RED FLAG.
+  → $8B Iridium acquisition announced — high-leverage bet, adds significant debt risk.
+  → Stock down 37% in past month; underperforming Aerospace sector by 30 ppts.
+  → Neutron engine hot fire test = positive long-term but doesn't offset near-term risks.
+  ⚠ CEO selling scale + acquisition risk = elevated caution despite space thesis.
+
+FLNC  | $14.62  | Avg: $24.57  | P&L: -40.5% | WATCH       | Confidence: MEDIUM
+  🚨 STOP LOSS TRIGGERED (-40.5% breaches -25% high_growth threshold)
+  → Ongoing selling pressure; fell 10.4% on July 8, pressure persisted.
+  → GLJ Research: Buy, $26 target. Retained S&P Global Cleantech Tier 1 status.
+  → RBC Capital: Hold — no strong institutional conviction.
+  → Q3 earnings Aug 5 — potential beat/miss swing point.
+  ⚠ Position value only $44.64. Earnings Aug 5 is next decision gate.
+
+GLW   | $161.00 | Avg: $192.08 | P&L: -16.2% | WATCH       | Confidence: MEDIUM
+  → Down 43% from $271 ATH (June 30) — significant technical damage.
+  → BofA PT: $243; Citi PT: $240 — strong analyst conviction on upside.
+  → Q2 earnings July 28 (1 WEEK AWAY) — 26.7% EPS growth expected.
+  → AI fiber demand thesis intact; pullback appears sector rotation, not fundamental.
+  ⚠ Approaching but not yet at -25% stop loss. Watch earnings July 28 closely.
+
+[MONITORED — NOT CURRENTLY HELD]
+NBIS  | $194.50 | Not held     | —           | HOLD STRONG | Confidence: HIGH
+  → Nvidia discloses 9.3% passive stake — major validation.
+  → $775M debt deal eases dilution fears; analyst upgrade July 20.
+  → High volatility ($179–$194 in single day). If re-entering: scale in carefully.
+
+================================================================================
+OPPORTUNITY ALERTS:
+================================================================================
+
+🚀 OPPORTUNITY ALERT: KTOS (Kratos Defense & Security Solutions)
+  - Score: 4/4
+  - Current price: Under $50
+  - Sector: Defense / Autonomous Drones / AI-enabled weapons
+  - Why interesting: KeyBanc highest-conviction defense pick; first-to-market in
+    Collaborative Combat Aircraft (autonomous drones) and hypersonics
+  - Catalyst: Golden Dome missile defense contract awards expected
+  - Intel source: Yahoo Finance / KeyBanc research
+  - Risk level: Medium
+  - Suggested position: $20–50
+  - Already on WATCHLIST in trader.js ✓
+
+🚀 OPPORTUNITY ALERT: MU (Micron Technology)
+  - Score: 4/4
+  - Current price: ~$120–150
+  - Sector: AI semiconductor / HBM memory
+  - Why interesting: Zacks Rank #1 Strong Buy; AI memory spending projected
+    $216B → $633B in 2026; direct Nvidia Blackwell/Rubin ecosystem play
+  - Catalyst: HBM demand supercycle; Q3 earnings beat already reported
+  - Intel source: Zacks / Yahoo Finance momentum list
+  - Risk level: Medium
+  - Suggested position: $20–50
+  - Already on WATCHLIST in trader.js ✓
+
+🚀 OPPORTUNITY ALERT: CRDO (Credo Technology)
+  - Score: 4/4
+  - Current price: Under $80
+  - Sector: AI semiconductor / data center networking chips
+  - Why interesting: Zacks Rank #1 Strong Buy with Momentum Score A;
+    AI data center connectivity play; capex acceleration in H2 2026
+  - Catalyst: Continued AI infrastructure buildout spend
+  - Intel source: Zacks momentum screener
+  - Risk level: Medium-High (smaller cap)
+  - Suggested position: $20–50
+  - NOT on current watchlist — potential add
+
+================================================================================
+INTEL SOURCE HIGHLIGHTS:
+================================================================================
+
+@KobeissiLetter:
+  → 2026 market "one of the most resilient in history" — dip buyers absorb 5% pullbacks
+  → CPI 3.5% (below 3.8% expected) = cooling inflation tailwind
+  → Iran ceasefire collapse / oil spike = near-term headwind
+  → Net 2025 return: +30.7% vs S&P +16.4%
+  → No specific held-position flags today
+
+@AskLivermore (KEY PATTERN WARNING):
+  → 2026 tracking 1968/1978/2007 historical patterns
+  → Predicted path: "July choppy → August choppy → September grind higher
+    → October peak → November sell-off"
+  → Implication: Protect gains, avoid adding speculative positions in July/August
+  → Caution signal for the three stop-loss positions (ORCL, RKLB, FLNC)
+
+Stocktwits NVDA:
+  → 80/100 Bullish sentiment; 7,739 avg daily mentions (+93% in 3 months)
+  → Highest mention volume of any chip name — dwarfs AMD (2,858) and INTC (2,438)
+  → Strongly supports HOLD STRONG thesis
+
+Stocktwits PLTR:
+  → Recovering toward bullish; 1,400% mention surge in 30 days
+  → Pre-earnings retail interest building; ARK Invest adding
+  → Elevated sentiment supports holding through Aug 3 earnings
+
+@theaiportfolios / @BlackPantherCap / @trevhesinvests / @BullTheoryio / @StockChaser_:
+  → No indexable posts surfaced via web search (Twitter/X-native accounts)
+  → Direct platform access required for real-time signals from these sources
+  → No new stock picks or held-position flags retrieved today
+
+================================================================================
+ENGINE 1 FOUNDATION STATUS:
+================================================================================
+QQQM: $333.72 = 25.8% of portfolio  → TARGET 50% [NEEDS ATTENTION ⚠]
+SCHD: $217.49 = 16.8% of portfolio  → TARGET 20% [ON TRACK ✓]
+Monthly deposit (July 2026): PENDING ⚠
+  → Next deposit: 70% → QQQM / 30% → other
+
+MILESTONE PROGRESS:
+  Current equity: $1,294.65
+  Next milestone: $3,000 by 2026 → 43.2% of the way there
+  Estimated time: Insufficient history for projection yet
+
+================================================================================
+UPCOMING EARNINGS CALENDAR (CRITICAL DATES):
+================================================================================
+  July 23 (2 days): INTC — hold/watch into report
+  July 28 (1 week): GLW  — expect volatility; 26.7% EPS growth forecast
+  Aug 3  (13 days): PLTR — hold strong; earnings catalyst
+  Aug 5  (15 days): FLNC — potential swing point; stop already triggered
+
+================================================================================
+TAX AWARENESS:
+================================================================================
+All positions SHORT TERM (<1yr): NVDA, PLTR, FLNC, RKLB, QQQM, SCHD, GLW, INTC, ORCL, VOO
+  → High ordinary income tax rate applies to any realized gains if sold.
+  → For stop-loss positions (ORCL, RKLB, FLNC): losses would be short-term
+    deductible — partially offsets tax impact of selling.
+
+================================================================================
+GitHub push: SUCCESS ✓ (branch: claude/inspiring-ride-rflbbl)
+LIVE_TRADING: false — DRY RUN ONLY, no orders placed
+================================
